@@ -6,3 +6,6 @@ full stack developer
 
 job desc :
 8 jam sehari minimal 
+
+tambah fungsi :
+add2cart
