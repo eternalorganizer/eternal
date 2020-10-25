@@ -10,6 +10,6 @@ job desc :
 tambah fungsi :
 add2cart
 
+cartfunction-2
 function cart 2(){
 echo "2";
-}
