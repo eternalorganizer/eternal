@@ -2,10 +2,14 @@ Target Laravel
 full stack developer
 - front end
 - back end
-- devops
+
 
 job desc :
 8 jam sehari minimal 
 
 tambah fungsi :
 add2cart
+
+function cart 2(){
+echo "2";
+}
