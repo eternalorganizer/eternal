@@ -9,3 +9,7 @@ job desc :
 
 tambah fungsi :
 add2cart
+
+function cart1 (){
+echo "okay";
+}
